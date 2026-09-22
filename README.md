@@ -13,6 +13,7 @@ Structured Text (ST) is a high-level, Pascal-like programming language defined i
 ## Development
 ### Development Platforms
 
+- [AnyAutomation Studio](https://anyautomation.ch/en/studio) - AI-assisted engineering IDE for Siemens TIA Portal (SCL) and CODESYS with SCL unit testing on PLCSIM Advanced, PLC online access and Git
 - [B&R Automation Studio](https://www.br-automation.com/) - Development environment for B&R industrial controllers with full IEC 61131-3 support
 - [Beremiz](https://beremiz.org/) - Open-source IEC 61131-3 IDE and runtime supporting all five PLC languages
 - [CODESYS](https://store.codesys.com/en/codesys.html) - Manufacturer-independent IEC 61131-3 development platform
