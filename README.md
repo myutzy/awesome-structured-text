@@ -42,6 +42,7 @@ Structured Text (ST) is a high-level, Pascal-like programming language defined i
 - [TcOpen](https://github.com/TcOpenGroup/TcOpen) - Application framework for TwinCAT 3 industrial automation
 ### Extensions
 
+- [CODESYS MCP Toolkit](https://github.com/johannesPettersson80/codesys-mcp-toolkit) - Model Context Protocol server that lets AI assistants such as Claude read, write, compile and simulate Structured Text in CODESYS V3.5 projects
 - [STweep](https://www.stweep.com/) - Source code formatter for Structured Text with IDE plugins
 - [tree-sitter-structured-text](https://github.com/tmatijevich/tree-sitter-structured-text) - IEC 61131-3 Structured Text grammar for tree-sitter
 - [vscode-st](https://github.com/Serhioromano/vscode-st) - Structured Text language support for Visual Studio Code
